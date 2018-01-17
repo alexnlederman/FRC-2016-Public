@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Run this file from your mac to install the nessisary software
+# Run this file from your mac to install the necessary software
 
 if [ -z $1 ]
 then
